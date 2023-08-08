@@ -1,0 +1,12 @@
+[
+  {
+    "id": "api-id",
+    "url": "https://api.example.com/healthcheck",
+    "freq": 60,
+    "integration": "telegram",
+    "args": [
+      "https://api.telegram.org/.../sendMessage",
+      "-928336126"
+    ]
+  }
+]
